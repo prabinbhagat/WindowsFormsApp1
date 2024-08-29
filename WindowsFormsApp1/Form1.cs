@@ -22,7 +22,7 @@ namespace WindowsFormsApp1
         private void Form1_Load(object sender, EventArgs e)
         {
 
-            //const string connectionUri = "mongodb+srv://prabinbhagat:Prabin96818@cluster0.ch9fclu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+            //const string connectionUri = "mongodb+srv://prabinbhagat:<password>@cluster0.ch9fclu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
             //var settings = MongoClientSettings.FromConnectionString(connectionUri);
             //// Set the ServerApi field of the settings object to set the version of the Stable API on the client
             //settings.ServerApi = new ServerApi(ServerApiVersion.V1);
